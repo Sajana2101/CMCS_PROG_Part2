@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PROG_CMCS_Part1.Data;
+using CMCS_PROG_Part2.Data;
 using CMCS_PROG_Part2.Models;
 using CMCS_PROG_Part2.Services;
 
-namespace PROG_CMCS_Part1.Controllers
+namespace CMCS_PROG_Part2.Controllers
 {
     public class CoordinatorController : Controller
     {

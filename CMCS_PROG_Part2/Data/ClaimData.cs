@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text.Json;
 using CMCS_PROG_Part2.Models;
 
-namespace PROG_CMCS_Part1.Data
+namespace CMCS_PROG_Part2.Data
 {
     public static class ClaimData
     {
